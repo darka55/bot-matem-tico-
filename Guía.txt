@@ -1,0 +1,33 @@
+Aquí tienes una guía dividida en las secciones que mencionaste para el Bot Matemático:
+
+## Guía del Bot Matemático
+
+### ¿Qué es?
+El Bot Matemático es una herramienta programada en Python que te permite realizar operaciones matemáticas simples y complejas. Puedes ingresar una secuencia de números y operadores, y el bot evaluará la expresión y calculará el resultado.
+
+### ¿Para qué sirve?
+El Bot Matemático es útil para realizar cálculos matemáticos de manera rápida y sencilla. Puedes utilizarlo para sumar, restar, multiplicar, dividir, elevar a una potencia, calcular raíces cuadradas y más. Es especialmente útil cuando necesitas realizar operaciones con varios números y operadores en una sola expresión.
+
+### Cómo usarlo:
+1. Ejecuta el programa del Bot Matemático en Python.
+2. El programa te dará la bienvenida y te solicitará ingresar una operación en el formato "num1 operador num2 operador num3 ...". Puedes ingresar tantos números y operadores como desees, separados por espacios.
+3. El bot evaluará la expresión ingresada y calculará el resultado.
+4. El resultado de la operación matemática se mostrará en la pantalla.
+5. Puedes continuar ingresando nuevas operaciones o finalizar el programa.
+
+### Cómo sacarle el máximo provecho:
+1. Aprovecha la flexibilidad del Bot Matemático para realizar operaciones complejas. Puedes combinar múltiples operadores y números en una sola expresión para obtener resultados más precisos.
+2. Utiliza los operadores matemáticos disponibles, como suma (+), resta (-), multiplicación (*), división (/) y potenciación (^), para realizar diferentes tipos de cálculos.
+3. Explora las funciones matemáticas incorporadas, como sqrt (raíz cuadrada), sin (seno), cos (coseno) y tan (tangente), para realizar cálculos más avanzados.
+4. Asegúrate de ingresar correctamente los números y operadores en el formato solicitado para obtener resultados precisos.
+
+### Todo lo que puede hacer y cómo:
+El Bot Matemático puede realizar las siguientes operaciones y funciones matemáticas:
+
+- Suma: Utiliza el operador "+" para sumar dos o más números. Por ejemplo, "2 + 3 + 4" dará como resultado 9.
+- Resta: Utiliza el operador "-" para restar dos o más números. Por ejemplo, "10 - 5 - 3" dará como resultado 2.
+- Multiplicación: Utiliza el operador "*" para multiplicar dos o más números. Por ejemplo, "2 * 3 * 4" dará como resultado 24.
+- División: Utiliza el operador "/" para dividir dos o más números. Por ejemplo, "10 / 2 / 5" dará como resultado 1.
+- Potenciación: Utiliza el operador "^" para elevar un número a una potencia. Por ejemplo, "2 ^ 3" dará como resultado 8.
+- Raíz cuadrada: Utiliza la función "sqrt" seguida de un número para calcular la raíz cuadrada. Por ejemplo, "sqrt 25" dará como resultado 5.
+- Seno: Utiliza la función "sin" seguida de un número para calcular el seno. Por ejemplo, "
